@@ -1,1 +1,1 @@
-这里有 [liyuanchen2021](https://www.luogu.com.cn/user/557680) 学习算法的笔记，也有历年比赛的游记。
+这里有 [liyuanchen2021](https://www.luogu.com.cn/user/557680) 学习[算法](https://github.com/luogu557680/liyuanchen2021-notes/tree/main/algorithms)的笔记，也有[历年比赛](https://github.com/luogu557680/liyuanchen2021-notes/tree/main/contests)的游记。
